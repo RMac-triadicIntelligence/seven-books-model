@@ -1,3 +1,11 @@
+```python
+"""
+Core dynamics of the Seven Books Model.
+
+This module implements the differential equations governing contemplative
+understanding through seven classical texts speaking simultaneously.
+"""
+
 import numpy as np
 
 
@@ -116,4 +124,3 @@ return [dx1_dt, dx2_dt, dx3_dt, d_dwelling_dt]
 ```
 
 -----
-
