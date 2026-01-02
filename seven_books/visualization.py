@@ -1,3 +1,8 @@
+```python
+"""
+Visualization utilities for the Seven Books Model.
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -137,4 +142,4 @@ plt.tight_layout()
 return fig
 ```
 
-
+-----
